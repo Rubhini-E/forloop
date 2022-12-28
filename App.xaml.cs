@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace forloop
+namespace nested_for
 {
     /// <summary>
     /// Interaction logic for App.xaml
